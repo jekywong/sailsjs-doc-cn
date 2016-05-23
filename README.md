@@ -1,1 +1,1 @@
-# sailsjs-doc-cn
+# sails.js 中文文档
